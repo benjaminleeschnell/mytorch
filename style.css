@@ -1,35 +1,35 @@
 @font-face {
-    font-family: 'GothamRounded-Bold';
-    src: url('fonts/GothamRounded-Bold.woff2') format('woff2'),
-         url('fonts/GothamRounded-Bold.woff') format('woff'),
-         url('fonts/GothamRounded-Bold.otf') format('otf');
+    font-family: 'gothamrounded-bold';
+    src: url('fonts/gothamrounded-bold.woff2') format('woff2'),
+         url('fonts/gothamrounded-bold.woff') format('woff'),
+         url('fonts/gothamrounded-bold.otf') format('otf');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'GothamRounded-Book';
-    src: url('fonts/GothamRounded-Book.woff2') format('woff2'),
-         url('fonts/GothamRounded-Book.woff') format('woff'),
-         url('fonts/GothamRounded-Book.otf') format('otf');
+    font-family: 'gothamrounded-book';
+    src: url('fonts/gothamrounded-book.woff2') format('woff2'),
+         url('fonts/gothamrounded-book.woff') format('woff'),
+         url('fonts/gothamrounded-book.otf') format('otf');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'GothamRounded-Medium';
-    src: url('fonts/GothamRounded-Medium.woff2') format('woff2'),
-         url('fonts/GothamRounded-Medium.woff') format('woff'),
-         url('fonts/GothamRounded-Medium.otf') format('otf');
+    font-family: 'gothamrounded-medium';
+    src: url('fonts/gothamrounded-medium.woff2') format('woff2'),
+         url('fonts/gothamrounded-medium.woff') format('woff'),
+         url('fonts/gothamrounded-medium.otf') format('otf');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Tungsten-Medium';
-    src: url('fonts/Tungsten-Medium.woff2') format('woff2'),
-         url('fonts/Tungsten-Medium.woff') format('woff'),
-         url('fonts/Tungsten-Medium.otf') format('otf');
+    font-family: 'tungsten-medium';
+    src: url('fonts/tungsten-medium.woff2') format('woff2'),
+         url('fonts/tungsten-medium.woff') format('woff'),
+         url('fonts/tungsten-medium.otf') format('otf');
     font-weight: normal;
     font-style: normal;
 }
@@ -217,7 +217,7 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 
 #bloc-0 h1{
 	font-size: 50px;
-	font-family: 'Tungsten-Medium';
+	font-family: 'tungsten-medium';
 	letter-spacing: 2px;
 }
 
@@ -290,7 +290,7 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 }
 
 .site-navigation > li > a {
-	font-family: "GothamRounded-Medium";
+	font-family: "gothamrounded-medium";
 	font-size: 14px;
 	margin: 10px 20px 25px 20px;
 }
@@ -468,7 +468,7 @@ td {
 #exTab1 .nav-pills > li > a {
   border-radius: 0;
   width: 100%;
-  font-family: "GothamRounded-Medium";
+  font-family: "gothamrounded-medium";
   text-align: center;
   height: 100%;
 }
@@ -499,11 +499,11 @@ td {
 /* Fonts */
 
 .gotham-medium {
-	font-family: "GothamRounded-Medium";
+	font-family: "gothamrounded-medium";
 }
 
 .gotham-book {
-	font-family: "GothamRounded-Book";
+	font-family: "gothamrounded-book";
 } 
 
 .font-size-10 {
@@ -966,17 +966,17 @@ iframe{
 -------------------------------------------------------------- */
 
 h1,h2,h3,h4,h5,h6,p,label,a{
-	font-family:"Tungsten-Medium";
+	font-family:"tungsten-medium";
 }
 .btn {
-	font-family: "GothamRounded-Medium";
+	font-family: "gothamrounded-medium";
 }
 .container{
 	max-width:1170px;
 }
 .lake-hero-text-s{
 	font-size:19px;
-	font-family: "GothamRounded-Medium";
+	font-family: "gothamrounded-medium";
 }
 .lake-hero-text-sub-s{
 	font-size:34px;
@@ -993,7 +993,7 @@ h1,h2,h3,h4,h5,h6,p,label,a{
 	min-height: 300px;
 }
 .lake-hero-text{
-	font-family:"GothamRounded-Bold";
+	font-family:"gothamrounded-bold";
 	font-size:60px;
 	font-weight:normal;
 	text-shadow:0px 3px 3px rgba(0,0,0,0.3);
@@ -1001,7 +1001,7 @@ h1,h2,h3,h4,h5,h6,p,label,a{
 }
 .lake-hero-text-sub{
 	font-size:19px;
-	font-family: "GothamRounded-Medium";
+	font-family: "gothamrounded-medium";
 }
 .imac-bloc-text-vc{
 	font-size:50px;
