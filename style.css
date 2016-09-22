@@ -592,6 +592,10 @@ td {
 	background: #f7f7f7 url('img/hero_full.png') no-repeat top right;
 }
 
+#bloc-1a h3 {
+	margin-top: 0px;
+}
+
 .icon-md {
 	color: #FF6B00 !important;
 }
