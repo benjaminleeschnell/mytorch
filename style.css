@@ -2,7 +2,8 @@
     font-family: 'gothamrounded-bold';
     src: url('fonts/gothamrounded-bold.woff2') format('woff2'),
          url('fonts/gothamrounded-bold.woff') format('woff'),
-         url('fonts/gothamrounded-bold.otf') format('otf');
+         url('fonts/gothamrounded-bold.otf') format('otf'),
+         url('fonts/gothamrounded-bold.ttf') format('ttf');
     font-weight: normal;
     font-style: normal;
 }
@@ -11,7 +12,8 @@
     font-family: 'gothamrounded-book';
     src: url('fonts/gothamrounded-book.woff2') format('woff2'),
          url('fonts/gothamrounded-book.woff') format('woff'),
-         url('fonts/gothamrounded-book.otf') format('otf');
+         url('fonts/gothamrounded-book.otf') format('otf'),
+         url('fonts/gothamrounded-book.ttf') format('ttf');
     font-weight: normal;
     font-style: normal;
 }
@@ -20,7 +22,8 @@
     font-family: 'gothamrounded-medium';
     src: url('fonts/gothamrounded-medium.woff2') format('woff2'),
          url('fonts/gothamrounded-medium.woff') format('woff'),
-         url('fonts/gothamrounded-medium.otf') format('otf');
+         url('fonts/gothamrounded-medium.otf') format('otf'),
+         url('fonts/gothamrounded-medium.ttf') format('ttf');
     font-weight: normal;
     font-style: normal;
 }
@@ -29,7 +32,8 @@
     font-family: 'tungsten-medium';
     src: url('fonts/tungsten-medium.woff2') format('woff2'),
          url('fonts/tungsten-medium.woff') format('woff'),
-         url('fonts/tungsten-medium.otf') format('otf');
+         url('fonts/tungsten-medium.otf') format('otf'),
+         url('fonts/tungsten-medium.ttf') format('ttf');
     font-weight: normal;
     font-style: normal;
 }
